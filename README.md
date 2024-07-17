@@ -8,6 +8,11 @@ I am currently undertaking a comprehensive analysis of food nutrition data to un
 Installation Instructions: Ensure Python and necessary libraries (Pandas, Matplotlib, Seaborn, Scikit-learn) are installed.
 Usage: Includes EDA, feature engineering, and predictive modeling techniques.
 Features: Provides insights into nutrient distributions and predictive models for dietary planning.
-Credits: Thaks to Kaggle for providing me this valuable data (https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset?resource=download)
+Credits: 
+Thaks to Kaggle for providing me this valuable data (https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset?resource=download)
 also, I used jupyter Notebook where I used Pandas, Matplotlib, Seaborn and Scikit-learn.
-Documentation:...
+https://www.nhs.uk/live-well/eat-well/food-types/how-does-sugar-in-our-diet-affect-our-health/#:~:text=Products%20are%20considered%20to%20either,of%20total%20sugars%20per%20100g
+https://www.health.harvard.edu/heart-health/whats-your-daily-budget-for-saturated-fat
+
+
+
